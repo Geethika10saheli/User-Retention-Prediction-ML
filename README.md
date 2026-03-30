@@ -51,4 +51,25 @@ This project focuses on predicting customer retention using machine learning tec
 ## Results
 - Models were evaluated using accuracy  
 - Random Forest achieved the best performance  
-- Visualizatio
+- Visualization used to compare model results
+- 
+##  Output
+- Accuracy scores of all models  
+- Confusion matrix  
+- Graph comparing model performance
+- 
+Name: Dasari Geethika Saheli.
+
+Student ID: 24CS003391.
+
+Course: B.Tech (CSE – AI & ML).
+
+Project Title: User Retention Prediction (ML D57).
+
+Area of Interest: Data Science and Machine Learning.
+
+Skills Used: Python, Pandas, Scikit-learn, Data Analysis.
+
+Objective: To apply machine learning techniques to solve real-world problems.
+
+Learning Outcome: Gained experience in data preprocessing, model building, and evaluation
